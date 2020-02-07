@@ -35,11 +35,6 @@ public class ConvidadosController {
 		return "redirect:/convidados";
 	}
 	
-	@GetMapping("/error")
-	public String erro()
-	{
-		return "deu ruim";
-	}
 	
 	
 	

@@ -60,11 +60,11 @@
 			<version>3.3.7</version>
 		</dependency>
 		
+		
 		<dependency>
-			<groupId>mysql</groupId>
-			<artifactId>mysql-connector-java</artifactId>
-			<scope>runtime</scope>
-		</dependency>		
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-security</artifactId>
+		</dependency>	
 		
 	</dependencies>
 
